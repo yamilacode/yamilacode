@@ -3,10 +3,21 @@
 # 👋 Hola, soy Yamila
 
 <p align="left">
+  <a href="https://yamysystem.com.ar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&vCenter=true&width=500&lines=Software+Developer...;AppSec+Analyst...;Junior+SOC+Analyst...;%3C%2FSECURITYCODE%3E" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=yamilacode&style=flat-square&color=blue&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
 </p>
 
 Bienvenidos a mi espacio de desarrollo y ciberseguridad. Soy fundadora de **YamySystem** y creadora de contenido en **SecurityCode**. Me especializo en construir soluciones de software robustas y auditarlas desde una perspectiva de seguridad (Shift-Left).
+<p align="left">
+
+  <img src="https://komarev.com/ghpvc/?username=yamilacode&style=flat-square&color=blue&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+
+</p>
 
 ### 🛡️ Mi Enfoque
 - **Desarrollo:** Arquitectura y creación de aplicaciones web, móvil y de escritorio.
