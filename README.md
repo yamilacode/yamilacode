@@ -2,6 +2,10 @@
 
 # 👋 Hola, soy Yamila
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yamilacode&style=flat-square&color=blue&label=VISITAS+AL+PERFIL" alt="Visitas al perfil de yamilacode" />
+</p>
+
 Bienvenidos a mi espacio de desarrollo y ciberseguridad. Soy fundadora de **YamySystem** y creadora de contenido en **SecurityCode**. Me especializo en construir soluciones de software robustas y auditarlas desde una perspectiva de seguridad (Shift-Left).
 
 ### 🛡️ Mi Enfoque
