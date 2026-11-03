@@ -3,13 +3,13 @@
 # 👋 Hola, soy Yamila
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yamilacode&style=flat-square&color=blue&label=VISITAS+AL+PERFIL" alt="Visitas al perfil de yamilacode" />
+  <img src="https://komarev.com/ghpvc/?username=yamilacode&style=flat-square&color=blue&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
 </p>
 
 Bienvenidos a mi espacio de desarrollo y ciberseguridad. Soy fundadora de **YamySystem** y creadora de contenido en **SecurityCode**. Me especializo en construir soluciones de software robustas y auditarlas desde una perspectiva de seguridad (Shift-Left).
 
 ### 🛡️ Mi Enfoque
-- **Desarrollo:** Arquitectura y creación de aplicaciones web, movil y de escritorio.
+- **Desarrollo:** Arquitectura y creación de aplicaciones web, móvil y de escritorio.
 - **Ciberseguridad (AppSec/SOC):** Implementación de prácticas de Secure Coding, auditoría de vulnerabilidades y defensa activa.
 
 ### 💻 Stack y Herramientas de Desarrollo
@@ -19,8 +19,8 @@ Bienvenidos a mi espacio de desarrollo y ciberseguridad. Soy fundadora de **Yamy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" title="PHP" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" title="Firebase" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" title="MySQL" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="45" title="Firebase" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" title="Android Studio" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
 </p>
@@ -34,5 +34,7 @@ Bienvenidos a mi espacio de desarrollo y ciberseguridad. Soy fundadora de **Yamy
   <img src="https://cdn.simpleicons.org/snyk/4C4A73" width="45" title="Snyk" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" title="Wireshark" />
 </p>
+
 ---
+
 🌐 **Conocé más sobre mi trabajo en:** [yamysystem.com.ar](https://www.yamysystem.com.ar)
