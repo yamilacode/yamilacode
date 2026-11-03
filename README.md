@@ -13,11 +13,6 @@
 </p>
 
 Bienvenidos a mi espacio de desarrollo y ciberseguridad. Soy fundadora de **YamySystem** y creadora de contenido en **SecurityCode**. Me especializo en construir soluciones de software robustas y auditarlas desde una perspectiva de seguridad (Shift-Left).
-<p align="left">
-
-  <img src="https://komarev.com/ghpvc/?username=yamilacode&style=flat-square&color=blue&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
-
-</p>
 
 ### 🛡️ Mi Enfoque
 - **Desarrollo:** Arquitectura y creación de aplicaciones web, móvil y de escritorio.
