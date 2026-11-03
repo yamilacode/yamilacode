@@ -1,6 +1,6 @@
 <img width="2064" height="512" alt="Gemini_Generated_Image_" src="https://github.com/user-attachments/assets/a76e243b-d018-4f9f-91d4-04f8ff3beee4" />
 
-# 👋 Hola, soy Yamila | Software Developer & AppSec Analyst
+# 👋 Hola, soy Yamila
 
 Bienvenidos a mi espacio de desarrollo y ciberseguridad. Soy fundadora de **YamySystem** y creadora de contenido en **SecurityCode**. Me especializo en construir soluciones de software robustas y auditarlas desde una perspectiva de seguridad (Shift-Left).
 
