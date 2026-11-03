@@ -30,7 +30,7 @@ Bienvenidos a mi espacio de desarrollo y ciberseguridad. Soy fundadora de **Yamy
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" title="Kali Linux" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tryhackme/white" width="45" title="TryHackMe" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/owasp/white" width="45" title="OWASP" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="45" title="SonarQube" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="45" title="SonarQube" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/snyk/4C4A73" width="45" title="Snyk" /> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" title="Wireshark" />
 </p>
